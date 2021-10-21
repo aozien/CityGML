@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>CityGMLSharp</id>
+    <version>1.0.0</version>
+    <title>CityGMLSharp v3.0</title>
+    <authors>aozien</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">LGPL</license>
+    <description>CityGML C# classes generated and created based on the OGC standard for citygml v3.0, can be used to read/write citygml files from gml files.</description>
+    <releaseNotes>Initial class implementation</releaseNotes>
+    <copyright>aozien © 2021</copyright>
+    <tags>CityGML GML OpenGis</tags>
+  </metadata>
+</package>

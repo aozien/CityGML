@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>0.0.1</Version>
+    <Authors>aozien</Authors>
+    <Description>CityGML C# classes generated and created based on the OGC standard for citygml v3.0, can be used to read/write citygml files from gml files.</Description>
+    <PackageLicenseExpression>LGPL-2.0-only</PackageLicenseExpression>
+    <Product>CityGMLSharp v3.0</Product>
+    <Copyright>aozien © 2021</Copyright>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageId>CityGMLSharp</PackageId>
+    <PackageTags>CityGML GML OpenGis BIM</PackageTags>
+  </PropertyGroup>
+
+</Project>
